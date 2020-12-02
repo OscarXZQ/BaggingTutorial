@@ -3,7 +3,7 @@
 
 <b>Navigating the file:</b>  
 This repo will help students wil prior experience with EE16A, EE16B, CS61B to learn the concept of bagging. 
-As a student, you will first read through the Notes.pdf and gain a theoretical knowledge of bagging related concepts. Then, you can take a quick quiz(CS189 Bagging Quiz) to check your basic understanding of the key concepts. The slide deck will also help you gain an overarching understanding of the material. The coding assignment is for you to get your hands dirty. You will implement naive polynomial regression bagging to more sophisticated random forest.  
+As a student, you will first read through the Notes.pdf and gain a theoretical knowledge of bagging related concepts. Then, you can take a quick quiz (CS189 Bagging Quiz.pdf) to check your basic understanding of the key concepts. The slide deck (FinalSlides.pdf) will also help you gain an overarching understanding of the material. The coding assignment (Bagging_assignment.ipynb) is for you to get your hands dirty. You will implement naive polynomial regression bagging to more sophisticated random forest. After you did your work check your answers with solution.  
 
 <b>Learning Objective:</b>  
 At the conclusion of the aforementioned exercise, students should develop their own mindmap of bagging related concepts.  
