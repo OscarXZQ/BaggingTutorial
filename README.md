@@ -4,7 +4,6 @@
 <br/>
 This repository will help students wil prior experience with EE16A, EE16B, CS61B to learn the concept of bagging. 
 The repository consists of the following items. Please click on the corresponding items to access/download the files.  
-<br/>
 1. Slide deck on Bagging in pdf form (Bagging_Slides.pdf)  
 1. Note on Bagging in pdf form (Bagging_Notes.pdf)  
 1. Ipynb notebook of a working coding assignment for students to do in approximately 8-9 hours (Bagging_code_assignment.ipynb)
